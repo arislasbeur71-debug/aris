@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arislasbeur71-debug.github.io/aris/sitemap.xml
